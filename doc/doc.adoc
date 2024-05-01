@@ -4147,7 +4147,7 @@ audio(puf1_music, "music.txt")
 
 The following targets are accepted:
 
-[cols="1,1,2"]
+[cols="1,2"]
 |===
 |Conversion Target |Description
 
